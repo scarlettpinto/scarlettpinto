@@ -1,4 +1,4 @@
-## Hi there 👋
+## ¡Hola!👋 Soy redactora SEO. Aquí puedes encontrar mi portafolio digital con algunos de mis proyectos estratégicos.
 
 <!--
 **scarlettpinto/scarlettpinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
